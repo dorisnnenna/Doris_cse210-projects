@@ -1,7 +1,8 @@
 /* additional features. I added a feature that allows the 
 program to show the number of words remaining,
 helping users track their memorization progress 
-*/
+*/ 
+
 
 using System;
 
