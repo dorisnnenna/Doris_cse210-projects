@@ -1,5 +1,3 @@
-/* also filename reference has been updated to Reference */
-
 public class Reference
 {
     private string _book;
