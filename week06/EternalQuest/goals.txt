@@ -1,0 +1,4 @@
+1050
+SimpleGoal|run a marathon|complete the run|1000|True
+EternalGoal|read scriptures|finish genesis to luke|50
+EternalGoal|attend temple|participant in preaching|200
